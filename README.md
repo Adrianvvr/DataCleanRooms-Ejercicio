@@ -11,7 +11,7 @@
 Dos empresas colaboran cruzando sus datos sin revelar información personal ni compartir sus bases de datos originales:
 
 - **Empresa A (`StreamMusic`):** Historial de escucha (`genero_favorito`, `horas_mes`).
-- **Empresa B (`FitWear`):** Compras en tienda online (`gasto_eur`, `es_recurrente`).
+- **Empresa B (`FitWear`):** Compras en tienda online (`gasto_eur`, `es_recurrente`) .
 
 La Clean Room cruza ambas tablas mediante un hash anónimo (`SHA-256`) y solo devuelve resultados agregados si el grupo tiene al menos **15 usuarios (k-anonimato)**.
 
