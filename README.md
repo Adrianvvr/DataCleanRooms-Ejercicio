@@ -4,7 +4,7 @@
 
 ---
 
-* Clona el repositorio desde esta URL ``
+* Clona el repositorio desde esta URL: `https://github.com/Adrianvvr/DataCleanRooms-Ejercicio`
 
 ## 🎯 Escenario
 
